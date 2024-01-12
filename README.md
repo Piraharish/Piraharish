@@ -5,9 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer | Recent Graduate
 -------------------------------
-<div style="display: grid; align-items: center;">
-  <div>
-An aspiring developer, Recent graduate, looking forward to the first work experience.
+<p>An aspiring developer, Recent graduate, looking forward to the first work experience.</p>
 
 *   🌍 I'm based in TamilNadu, India
 *   🖥️ See my portfolio at [MyPortfolio](http://piraharish-portfolio.netlify.app)
@@ -22,11 +20,8 @@ An aspiring developer, Recent graduate, looking forward to the first work experi
   <a href="https://fb.com/piraharish" target="blank"><img align="center" src="https://www.svgrepo.com/show/303117/facebook-2-logo.svg" alt="piraharish" height="30" width="40" /></a>
   <a href="https://instagram.com/piraharish" target="blank"><img align="center" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="piraharish" height="30" width="40" /></a>
 </p>
-</div>
-</div>
 
-<div style="margin-left: auto; text-align: center;">
   <a href="http://www.github.com/Piraharish"><img src="https://github-readme-stats.vercel.app/api?username=Piraharish&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Piraharish's GitHub stats" /></a>
 
   <a href="https://github.com/Piraharish"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piraharish&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+
